@@ -186,7 +186,7 @@
             "Key": "b73a781f-690c-4a24-989b-35eddff1df06",
             "Value": {
                 "id": "6fce0ac3-245c-4e4c-a8b4-c7aca10c4a8d",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\obj_helper\\obj_helper.yy",
                 "resourceType": "GMObject"
             }
         },
